@@ -1,2 +1,2 @@
 # AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks
-<space> 本文由北航与清华大学发表于KDD2019. 
+Authors: Jingyuan Wang, Yang Zhang, Ke Tang, Junjie Wu, Zhang Xiong
